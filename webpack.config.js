@@ -5,7 +5,7 @@ const config =
     entry: "./index.ts",
     output: {
     },
-    mode: "development",
+    mode: "production",
     externals: {},
     devtool: "source-map",
     resolve: {
